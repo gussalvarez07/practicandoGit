@@ -1,1 +1,2 @@
-consola.log("Hola mundo")
+alert("AGUS");
+console.log("alvarez");
